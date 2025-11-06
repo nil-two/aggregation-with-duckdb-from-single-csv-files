@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Furnitures",
+    "items": [{"name": "Wooden desk"}, {"name": "Wooden chair"}]
+  },
+  {
+    "name": "Stationeries",
+    "items": [{"name": "Notebook"}]
+  }
+]

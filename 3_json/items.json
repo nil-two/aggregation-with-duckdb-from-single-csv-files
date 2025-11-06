@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden desk",
+    "price": 8000,
+    "meta": {"color": "Brown", "height": 80},
+    "tags": ["furniture", "wood"]
+  },
+  {
+    "id": 2,
+    "name": "Wooden chair",
+    "price": 4000,
+    "meta": {"color": "Brown", "height": 45},
+    "tags": ["furniture", "wood"]
+  },
+  {
+    "id": 3,
+    "name": "Notebook",
+    "price": 100,
+    "meta": {"color": "Blue", "height": 21},
+    "tags": ["stationery"]
+  }
+]

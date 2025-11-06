@@ -1,0 +1,8 @@
+[
+  {"user_id": 1, "test_id": 1, "score": 90},
+  {"user_id": 2, "test_id": 1, "score": 70},
+  {"user_id": 3, "test_id": 1, "score": 70},
+  {"user_id": 1, "test_id": 2, "score": 80},
+  {"user_id": 2, "test_id": 2, "score": 80},
+  {"user_id": 3, "test_id": 2, "score": 70}
+]
